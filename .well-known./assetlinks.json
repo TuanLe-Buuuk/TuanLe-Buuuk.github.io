@@ -1,0 +1,12 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.synergy.seaboard.dev",
+    "sha256_cert_fingerprints":
+    [
+      "D2:DF:96:1E:A1:0B:16:AB:26:AC:13:5C:3D:C7:5C:34:BF:D1:13:32:EC:41:57:79:2D:0C:5B:48:11:92:3F:3F",
+      "17:1D:95:44:9B:7C:7A:57:57:B7:53:7E:95:7C:25:43:49:63:BD:77:93:ED:D0:91:FE:2A:4C:22:2A:79:5E:80"
+    ]
+  }
+}
