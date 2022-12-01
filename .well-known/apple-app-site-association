@@ -1,0 +1,34 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "com.synergy.seaboard.dev"
+        ],
+        "components": [
+          {
+            "/": "/reset-password",
+            "comment": "Matches any URL with a path that starts with /reset-password"
+          },
+          {
+            "/": "/reset-password/*",
+            "comment": "Matches any URL with a path that starts with /reset-password/"
+          },
+          {
+            "/": " /active-user",
+            "comment": "Matches any URL with a path that starts with  /active-user"
+          },
+          {
+            "/": "/email-confirmation",
+            "comment": "Matches any URL with a path that starts with /email-confirmation"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "com.synergy.seaboard.dev"
+    ]
+  }
+}
